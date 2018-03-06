@@ -4,7 +4,7 @@ Inspired by the [bytesize-icons](https://github.com/danklammer/bytesize-icons) I
 
 ---
 
-![StackOverflow icon](icons/stackoverflow.svg?sanitize=true) | **StackOverflow**
+![StackOverflow icon](dist/icons/stackoverflow.svg?sanitize=true) | **StackOverflow**
 ---|---
 
 ```html
@@ -15,7 +15,7 @@ Inspired by the [bytesize-icons](https://github.com/danklammer/bytesize-icons) I
 
 ---
 
-![Merge icon](icons/merge.svg?sanitize=true) | **Merge**
+![Merge icon](dist/icons/merge.svg?sanitize=true) | **Merge**
 ---|---
 
 ```html
@@ -23,6 +23,6 @@ Inspired by the [bytesize-icons](https://github.com/danklammer/bytesize-icons) I
     <circle cx="10" cy="6" r="3" />
     <circle cx="22" cy="6" r="3" />
     <circle cx="16" cy="26" r="3" />
-    <path d="M10 9V13L16 17 22 13V9M16 16.5V23" />
+    <path d="M10 9V13L16 17V23V17L22 13V9" />
 </svg>
 ```

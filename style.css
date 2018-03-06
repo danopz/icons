@@ -1,0 +1,10 @@
+.icons > svg {
+    stroke: currentColor;
+    stroke-width: 2px;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    fill: none;
+    width: 64px;
+    height: 64px;
+    margin: 1em;
+}

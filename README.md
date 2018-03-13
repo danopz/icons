@@ -20,6 +20,20 @@ Inspired by the [bytesize-icons](https://github.com/danklammer/bytesize-icons) I
 
 ```html
 <svg id="i-merge" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" stroke-width="2" stroke="currentColor" fill="none">
+    <circle cx="9" cy="6" r="3" />
+    <circle cx="9" cy="26" r="3" />
+    <circle cx="23" cy="26" r="3" />
+    <path d="M9 9V23M23 23V6H14M14 6L17 7V5Z" />
+</svg>
+```
+
+---
+
+![Fork icon](dist/icons/fork.svg?sanitize=true) | **Fork**
+---|---
+
+```html
+<svg id="i-fork" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" stroke-width="2" stroke="currentColor" fill="none">
     <circle cx="10" cy="6" r="3" />
     <circle cx="22" cy="6" r="3" />
     <circle cx="16" cy="26" r="3" />

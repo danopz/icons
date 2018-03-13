@@ -1,0 +1,6 @@
+<svg id="i-fork" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" stroke-width="2" stroke="currentColor" fill="none">
+    <circle cx="10" cy="6" r="3" />
+    <circle cx="22" cy="6" r="3" />
+    <circle cx="16" cy="26" r="3" />
+    <path d="M10 9V13L16 17V23V17L22 13V9" />
+</svg>

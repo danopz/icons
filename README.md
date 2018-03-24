@@ -4,6 +4,17 @@ Inspired by the [bytesize-icons](https://github.com/danklammer/bytesize-icons) I
 
 ---
 
+![Fullscreen icon](dist/icons/fullscreen.svg?sanitize=true) | **Fullscreen**
+---|---
+
+```html
+<svg id="i-fullscreen" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" stroke-width="2" stroke="currentColor" fill="none">
+    <path d="M3 11V3H11M21 3H29V11 M29 21V29H21 M11 29H3V21" />
+</svg>
+```
+
+---
+
 ![StackOverflow icon](dist/icons/stackoverflow.svg?sanitize=true) | **StackOverflow**
 ---|---
 

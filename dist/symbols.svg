@@ -20,4 +20,18 @@
         <circle cx="23" cy="26" r="3" />
         <path d="M9 9V23M23 23V6H14M14 6L17 7V5Z" />
     </symbol>
+
+    <symbol id="i-instagram" viewBox="0 0 32 32">
+        <rect x="3" y="3" rx="3" ry="3" width="26" height="26" />
+        <circle cx="16" cy="16" r="6" />
+        <circle cx="24" cy="8" r="1" />
+    </symbol>
+
+    <symbol id="i-facebook" viewBox="0 0 32 32">
+        <path stroke-width="0" fill="currentColor" d="M3,4c0-1 0-1 1-1H28c1,0 1,0 1,1V28c0,1 0,1 -1,1h-7v-10h3l1-4h-4c0-4 0-4 4-4v-4c-8,0 -8,0 -8,8h-4v4h4v10h-13c-1,0 -1,0 -1-1Z" />
+    </symbol>
+
+    <symbol id="i-youtube" viewBox="0 0 32 32">
+        <path stroke-width="0" fill="currentColor" d="M16,5c12,0 13,1 13,11 0,10 -1,11 -13,11 -12,0 -13-1 -13-11 0-10 1-11 13-11ZM12,11l0,10 10-5ZZ" />
+    </symbol>
 </svg>

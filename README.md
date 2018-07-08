@@ -51,3 +51,38 @@ Inspired by the [bytesize-icons](https://github.com/danklammer/bytesize-icons) I
     <path d="M10 9V13L16 17V23V17L22 13V9" />
 </svg>
 ```
+
+---
+
+![Instagram icon](dist/icons/instagram.svg?sanitize=true) | **Instagram**
+---|---
+
+```html
+<svg id="i-instagram" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" stroke-width="2" stroke="currentColor" fill="none">
+    <rect x="3" y="3" rx="3" ry="3" width="26" height="26" />
+    <circle cx="16" cy="16" r="6" />
+    <circle cx="24" cy="8" r="1" />
+</svg>
+```
+
+---
+
+![Facebook icon](dist/icons/facebook.svg?sanitize=true) | **Facebook**
+---|---
+
+```html
+<svg id="i-facebook" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+    <path stroke-width="0" fill="currentColor" d="M3,4c0-1 0-1 1-1H28c1,0 1,0 1,1V28c0,1 0,1 -1,1h-7v-10h3l1-4h-4c0-4 0-4 4-4v-4c-8,0 -8,0 -8,8h-4v4h4v10h-13c-1,0 -1,0 -1-1Z" />
+</svg>
+```
+
+---
+
+![YouTube icon](dist/icons/youtube.svg?sanitize=true) | **YouTube**
+---|---
+
+```html
+<svg id="i-youtube" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+    <path stroke-width="0" fill="currentColor" d="M16,5c12,0 13,1 13,11 0,10 -1,11 -13,11 -12,0 -13-1 -13-11 0-10 1-11 13-11ZM12,11l0,10 10-5ZZ" />
+</svg>
+```

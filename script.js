@@ -8,10 +8,17 @@ document.querySelectorAll('select').forEach(function (e) {
     });
 });
 
-document.getElementById('size').addEventListener('change', function () {
+document.getElementById('size').addEventListener('input', function () {
     var size = this.value;
     icons.forEach(function (i) {
         i.style.width = size;
         i.style.height = size;
+    });
+});
+
+document.getElementById('color').addEventListener('input', function () {
+    var color = this.value;
+    icons.forEach(function (i) {
+        i.style.color = color;
     });
 });

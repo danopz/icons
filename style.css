@@ -19,3 +19,8 @@
     width: 7em;
     height: 7em;
 }
+
+/* fixing color input (https://github.com/twbs/bootstrap/issues/18786#issuecomment-366243697) */
+input[type=color].form-control {
+    height: calc(2.25rem + 2px);
+}

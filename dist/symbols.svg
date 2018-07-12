@@ -11,7 +11,7 @@
     </symbol>
 
     <symbol id="i-stackoverflow" viewBox="0 0 64 64">
-        <path stroke-width="0" fill="currentColor" d="M7.1,39.2V59.5H53.2V39.2H48.3V54.5H12.2V39.2ZM43,49.2V44.2H17.5V49.2ZM43,42.7L43.9,37.8L19,32.7L18,37.5ZM44.4,36.3L46.5,31.8L23.5,21L21.4,25.5ZM47.5,30.4L50.5,26.7L30.9,10.4L27.9,14.1ZM51.7,25.4L55.6,22.6L40.4,2.1L36.6,5Z"/>
+        <path stroke="none" fill="currentColor" d="M7.1,39.2V59.5H53.2V39.2H48.3V54.5H12.2V39.2ZM43,49.2V44.2H17.5V49.2ZM43,42.7L43.9,37.8L19,32.7L18,37.5ZM44.4,36.3L46.5,31.8L23.5,21L21.4,25.5ZM47.5,30.4L50.5,26.7L30.9,10.4L27.9,14.1ZM51.7,25.4L55.6,22.6L40.4,2.1L36.6,5Z"/>
     </symbol>
 
     <symbol id="i-merge" viewBox="0 0 32 32">
@@ -28,10 +28,10 @@
     </symbol>
 
     <symbol id="i-facebook" viewBox="0 0 32 32">
-        <path stroke-width="0" fill="currentColor" d="M3,4c0-1 0-1 1-1H28c1,0 1,0 1,1V28c0,1 0,1 -1,1h-7v-10h3l1-4h-4c0-4 0-4 4-4v-4c-8,0 -8,0 -8,8h-4v4h4v10h-13c-1,0 -1,0 -1-1Z" />
+        <path stroke="none" fill="currentColor" d="M3,4c0-1 0-1 1-1H28c1,0 1,0 1,1V28c0,1 0,1 -1,1h-7v-10h3l1-4h-4c0-4 0-4 4-4v-4c-8,0 -8,0 -8,8h-4v4h4v10h-13c-1,0 -1,0 -1-1Z" />
     </symbol>
 
     <symbol id="i-youtube" viewBox="0 0 32 32">
-        <path stroke-width="0" fill="currentColor" d="M16,5c12,0 13,1 13,11 0,10 -1,11 -13,11 -12,0 -13-1 -13-11 0-10 1-11 13-11ZM12,11l0,10 10-5ZZ" />
+        <path stroke="none" fill="currentColor" d="M16,5c12,0 13,1 13,11 0,10 -1,11 -13,11 -12,0 -13-1 -13-11 0-10 1-11 13-11ZM12,11l0,10 10-5ZZ" />
     </symbol>
 </svg>

@@ -54,6 +54,18 @@ Inspired by the [bytesize-icons](https://github.com/danklammer/bytesize-icons) I
 
 ---
 
+![Rss icon](dist/icons/rss.svg?sanitize=true) | **Rss**
+---|---
+
+```html
+<svg id="i-rss" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" stroke-width="2" stroke="currentColor" fill="none">
+    <path d="M3 3Q29 3 29 29H25Q25 7 3 7ZM3 11Q21 11 21 29H17Q17 15 3 15Z" />
+    <circle cx="7" cy="25" r="4" />
+</svg>
+```
+
+---
+
 ![Instagram icon](dist/icons/instagram.svg?sanitize=true) | **Instagram**
 ---|---
 

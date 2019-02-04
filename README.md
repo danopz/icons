@@ -98,3 +98,14 @@ Inspired by the [bytesize-icons](https://github.com/danklammer/bytesize-icons) I
     <path stroke="none" fill="currentColor" d="M16,5c12,0 13,1 13,11 0,10 -1,11 -13,11 -12,0 -13-1 -13-11 0-10 1-11 13-11ZM12,11l0,10 10-5ZZ" />
 </svg>
 ```
+
+---
+
+![Xing icon](dist/icons/xing.svg?sanitize=true) | **Xing**
+---|---
+
+```html
+<svg id="i-xing" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" stroke-width="2" stroke="currentColor" fill="none">
+    <path d="M5 8H10L13 13 9 20H4L8 13ZM22 3H27L18 18 24 28H19L13 18Z" />
+</svg>
+```

@@ -37,6 +37,10 @@
     </symbol>
 
     <symbol id="i-youtube" viewBox="0 0 32 32">
-        <path stroke="none" fill="currentColor" d="M16,5c12,0 13,1 13,11 0,10 -1,11 -13,11 -12,0 -13-1 -13-11 0-10 1-11 13-11ZM12,11l0,10 10-5ZZ" />
+        <path stroke="none" fill="currentColor" d="M16,5c12,0 13,1 13,11 0,10 -1,11 -13,11 -12,0 -13-1 -13-11 0-10 1-11 13-11ZM12,11l0,10 10-5Z" />
+    </symbol>
+
+    <symbol id="i-xing" viewBox="0 0 32 32">
+        <path d="M5 8H10L13 13 9 20H4L8 13ZM22 3H27L18 18 24 28H19L13 18Z" />
     </symbol>
 </svg>

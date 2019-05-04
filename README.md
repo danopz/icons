@@ -66,6 +66,28 @@ Inspired by the [bytesize-icons](https://github.com/danklammer/bytesize-icons) I
 
 ---
 
+![Thumbs down icon](dist/icons/thumbs-down.svg?sanitize=true) | **Thumbs down**
+---|---
+
+```html
+<svg id="i-thumbs-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" stroke-width="2" stroke="currentColor" fill="none">
+    <path d="M3,4H9V18H3ZM3,4H9V6Q11,3 20,3H23Q27,5 24,7 28,9 25,11 29,13 26,15 30,17 27,19H18C23,29 16,32 15,29 15,26 16,18 9,17V18H3Z" />
+</svg>
+```
+
+---
+
+![Thumbs up icon](dist/icons/thumbs-up.svg?sanitize=true) | **Thumbs up**
+---|---
+
+```html
+<svg id="i-thumbs-up" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" stroke-width="2" stroke="currentColor" fill="none">
+    <path d="M3,28H9V14H3ZM3,28H9V26Q11,29 20,29H23Q27,27 24,25 28,23 25,21 29,19 26,17 30,15 27,13H18C23,3 16,0 15,3 15,6 16,14 9,15V14H3Z" />
+</svg>
+```
+
+---
+
 ![Instagram icon](dist/icons/instagram.svg?sanitize=true) | **Instagram**
 ---|---
 

@@ -43,4 +43,12 @@
     <symbol id="i-xing" viewBox="0 0 32 32">
         <path d="M5 8H10L13 13 9 20H4L8 13ZM22 3H27L18 18 24 28H19L13 18Z" />
     </symbol>
+
+    <symbol id="i-thumbs-up" viewBox="0 0 32 32">
+        <path d="M3,28H9V14H3ZM3,28H9V26Q11,29 20,29H23Q27,27 24,25 28,23 25,21 29,19 26,17 30,15 27,13H18C23,3 16,0 15,3 15,6 16,14 9,15V14H3Z" />
+    </symbol>
+
+    <symbol id="i-thumbs-down" viewBox="0 0 32 32">
+        <path d="M3,4H9V18H3ZM3,4H9V6Q11,3 20,3H23Q27,5 24,7 28,9 25,11 29,13 26,15 30,17 27,19H18C23,29 16,32 15,29 15,26 16,18 9,17V18H3Z" />
+    </symbol>
 </svg>

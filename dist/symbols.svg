@@ -21,6 +21,11 @@
         <path d="M9 9V23M23 23V6H14M14 6L17 7V5Z" />
     </symbol>
 
+    <symbol id="i-commit" viewBox="0 0 32 32">
+        <circle cx="16" cy="16" r="4" />
+        <path d="M3,16H12M20,16H29" />
+    </symbol>
+
     <symbol id="i-rss" viewBox="0 0 32 32">
         <path d="M3 3Q29 3 29 29H25Q25 7 3 7ZM3 11Q21 11 21 29H17Q17 15 3 15Z" />
         <circle cx="7" cy="25" r="4" />

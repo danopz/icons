@@ -54,6 +54,18 @@ Inspired by the [bytesize-icons](https://github.com/danklammer/bytesize-icons) I
 
 ---
 
+![Commit icon](dist/icons/commit.svg?sanitize=true) | **Commit**
+---|---
+
+```html
+<svg id="i-commit" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" stroke-width="2" stroke="currentColor" fill="none">
+    <circle cx="16" cy="16" r="4" />
+    <path d="M3,16H12M20,16H29" />
+</svg>
+```
+
+---
+
 ![Rss icon](dist/icons/rss.svg?sanitize=true) | **Rss**
 ---|---
 

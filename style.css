@@ -1,4 +1,4 @@
-.icons > svg {
+.icon {
     stroke: currentColor;
     stroke-width: 2px;
     stroke-linecap: round;
@@ -6,7 +6,7 @@
     fill: none;
     width: 64px;
     height: 64px;
-    margin: 1em;
+    /* margin: 1em; */
 }
 
 .github-corner {

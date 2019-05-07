@@ -1,4 +1,4 @@
-var icons = document.querySelectorAll('.icons > svg');
+var icons = document.querySelectorAll('.icon');
 
 document.querySelectorAll('select').forEach(function (e) {
     e.addEventListener('change', function () {

@@ -154,3 +154,14 @@ Inspired by the [bytesize-icons](https://github.com/danklammer/bytesize-icons) I
     <path d="M5 8H10L13 13 9 20H4L8 13ZM22 3H27L18 18 24 28H19L13 18Z" />
 </svg>
 ```
+
+---
+
+![Mastodon icon](dist/icons/mastodon.svg?sanitize=true) | **Mastodon**
+---|---
+
+```html
+<svg id="i-mastodon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+    <path stroke="none" fill="currentColor" d="M32,6c21,0 25,4 25,18c0,19 -3,22 -25,22c0,0 -9,0 -10,-1c1,8 8,8 19,6v5c-2,1 -6,2 -9,2c-20,0 -25,-6 -25,-34c0,-14 4,-18 25,-18ZM22,24c0,-5 7,-6 7,0v8h6v-8c0,-5 7,-6 7,0v14h6v-14c0,-12 -14,-12 -16,-4c-2,-8 -16,-8 -16,4v14h6Z" />
+</svg>
+```
